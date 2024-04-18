@@ -1,4 +1,10 @@
-
+/*
+  Name: Harshilkumar Rao
+  Student Id: 100935323
+	File: main.js
+	Date: 4/18/2024
+	Assignment-5
+*/
 
 // functionality for showing/hiding the comments section
 const showHideBtn = document.querySelector('.show-hide');
